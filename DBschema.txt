@@ -1,0 +1,11 @@
+LocTime::
+
+Location primary key varchar2(40)
+TimeStamp Date
+
+
+
+ImageDetails::
+
+Location primary key varchar2(40) n Foreign Key
+Image Blob or wateva
